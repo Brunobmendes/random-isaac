@@ -1,104 +1,139 @@
 {
   "1": {
-    "name": "Isaac"
+    "name": "Isaac",
+    "enabled": true
+
   },
   "2": {
-    "name": "Magdalene"
+    "name": "Magdalene",
+    "enabled": false
   },
   "3": {
-    "name": "Cain"
+    "name": "Cain",
+    "enabled": false
   },
   "4": {
-    "name": "Judas"
+    "name": "Judas",
+    "enabled": false
   },
   "5": {
-    "name": "??? (Blue Baby)"
+    "name": "??? (Blue Baby)",
+    "enabled": false
   },
   "6": {
-    "name": "Eve"
+    "name": "Eve",
+    "enabled": false
   },
   "7": {
-    "name": "Samson"
+    "name": "Samson",
+    "enabled": false
   },
   "8": {
-    "name": "Azazel"
+    "name": "Azazel",
+    "enabled": false
   },
   "9": {
-    "name": "Lazarus"
+    "name": "Lazarus",
+    "enabled": false
   },
   "10": {
-    "name": "Eden"
+    "name": "Eden",
+    "enabled": false
   },
   "11": {
-    "name": "The Lost"
+    "name": "The Lost",
+    "enabled": false
   },
   "12": {
-    "name": "Lilith"
+    "name": "Lilith",
+    "enabled": false
   },
   "13": {
-    "name": "Keeper"
+    "name": "Keeper",
+    "enabled": false
   },
   "14": {
-    "name": "Apollyon"
+    "name": "Apollyon",
+    "enabled": false
   },
   "15": {
-    "name": "The Forgotten"
+    "name": "The Forgotten",
+    "enabled": false
   },
   "16": {
-    "name": "Bethany"
+    "name": "Bethany",
+    "enabled": false
   },
   "17": {
-    "name": "Jacob & Esau"
+    "name": "Jacob & Esau",
+    "enabled": false
   },
   "18": {
-    "name": "Tainted Isaac"
+    "name": "Tainted Isaac",
+    "enabled": false
   },
   "19": {
-    "name": "Tainted Magdalene"
+    "name": "Tainted Magdalene",
+    "enabled": false
   },
   "20": {
-    "name": "Tainted Cain"
+    "name": "Tainted Cain",
+    "enabled": false
   },
   "21": {
-    "name": "Tainted Judas"
+    "name": "Tainted Judas",
+    "enabled": false
   },
   "22": {
-    "name": "Tainted ??? (Blue Baby)"
+    "name": "Tainted ??? (Blue Baby)",
+    "enabled": false
   },
   "23": {
-    "name": "Tainted Eve"
+    "name": "Tainted Eve",
+    "enabled": false
   },
   "24": {
-    "name": "Tainted Samson"
+    "name": "Tainted Samson",
+    "enabled": false
   },
   "25": {
-    "name": "Tainted Azazel"
+    "name": "Tainted Azazel",
+    "enabled": false
   },
   "26": {
-    "name": "Tainted Lazarus"
+    "name": "Tainted Lazarus",
+    "enabled": false
   },
   "27": {
-    "name": "Tainted Eden"
+    "name": "Tainted Eden",
+    "enabled": false
   },
   "28": {
-    "name": "Tainted Lost"
+    "name": "Tainted Lost",
+    "enabled": false
   },
   "29": {
-    "name": "Tainted Lilith"
+    "name": "Tainted Lilith",
+    "enabled": false
   },
   "30": {
-    "name": "Tainted Keeper"
+    "name": "Tainted Keeper",
+    "enabled": false
   },
   "31": {
-    "name": "Tainted Apollyon"
+    "name": "Tainted Apollyon",
+    "enabled": false
   },
   "32": {
-    "name": "Tainted Forgotten"
+    "name": "Tainted Forgotten",
+    "enabled": false
   },
   "33": {
-    "name": "Tainted Bethany"
+    "name": "Tainted Bethany",
+    "enabled": false
   },
   "34": {
-    "name": "Tainted Jacob"
+    "name": "Tainted Jacob",
+    "enabled": false
   }
 }

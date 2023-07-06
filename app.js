@@ -1,5 +1,14 @@
 const characters = require("./characters")
 
-const randomInt = Math.floor(Math.random() * Object.keys(characters).length)
+const validCharacter = (charactersArray) => {
+  let isEnable = true;
+  while (isEnable === true){
+    const randomInt = Math.floor(Math.random() * Object.keys(charactersArray).length);
+    if(characters[randomInt].enabled){
+      isEnable = false
+      return characters[randomInt]
+    }
+  }
+}
 
-console.log(characters[randomInt]);
+console.log(validCharacter(characters));

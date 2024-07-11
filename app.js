@@ -1,14 +1,9 @@
-const characters = require("./characters")
+const characters = require("./characters.js")
 
 const validCharacter = (charactersArray) => {
-  let isEnable = true;
-  while (isEnable === true){
-    const randomInt = Math.floor(Math.random() * Object.keys(charactersArray).length);
-    if(characters[randomInt].enabled){
-      isEnable = false
-      return characters[randomInt]
-    }
-  }
+  const validCharacters = charactersArray.filter((character) => character.enabled)
+  const randomInt = Math.floor(Math.random() * Object.keys(validCharacters).length);
+  return validCharacters[randomInt]
 }
 
 console.log(validCharacter(characters));
